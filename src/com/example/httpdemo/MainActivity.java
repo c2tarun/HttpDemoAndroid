@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
 		
 	}
 	
-	// http://rss.cnn.com/rss/cnn_tech.rss
+	// //http://rss.cnn.com/rss/cnn_tech.rss
 	
 	private class GetData extends AsyncTask<String, Void, String> {
 
